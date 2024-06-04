@@ -128,7 +128,7 @@ import {
         "Involved in all phases of front-end functionalities such as requirement analysis, visual and functional specifications, and overall design and development.",
         "Built reusable components to be used across multiple applications and contributed to the team's overall development.",
         "Designed and developed fund management using Java, Spring Boot, Hibernate, and MySQL for scholarship applications to provide transparency and effective bookkeeping.",
-        "Collaborated with other team members to develop a large-scale application for managing professors’ promotions and tenure.",
+        "Collaborated with other team members to develop a large-scale application for managing professors’ promotions and tenure.", 
 
           
           
