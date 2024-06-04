@@ -119,30 +119,35 @@ import {
   
   const experiences = [
     {
-      title: "Library Supervisor",
+      title: "Programmer Analyst",
       company_name: "Lakehead University",
       icon: lakehead,
       iconBg: "#383E56",
-      date: "Oct 2022 - April 2023",
+      date: "Oct 2022 - Present",
       points: [
-        "Effectively led and supervised a team of 11 part-time library assistants in a public university library.",
-        "Provided mentorship and guidance to team members."
+        "Involved in all phases of front-end functionalities such as requirement analysis, visual and functional specifications, and overall design and development.",
+        "Built reusable components to be used across multiple applications and contributed to the team's overall development.",
+        "Designed and developed fund management using Java, Spring Boot, Hibernate, and MySQL for scholarship applications to provide transparency and effective bookkeeping.",
+        "Collaborated with other team members to develop a large-scale application for managing professors’ promotions and tenure.",
+
+          
+          
       ],
     },
-    {
-      title: "Front End Developer",
-      company_name: "SBS Learning Pvt Ltd",
-      icon: sbs,
-      iconBg: "#E6DEDD",
-      date: "Sep 2020 - March 2021",
-      points: [
+    // {
+    //   title: "Front End Developer",
+    //   company_name: "SBS Learning Pvt Ltd",
+    //   icon: sbs,
+    //   iconBg: "#E6DEDD",
+    //   date: "Sep 2020 - March 2021",
+    //   points: [
         
-        "Worked closely with product managers, designers, and other engineers to tackle challenging problems and deliver innovative solution design, prioritizing user experience and utilizing efficient application deployment and scalability techniques.",
-        "Implemented microservices based Node.js back-end architecture to develop new REST APIs, resulting in improved functionality and seamless integration with databases.",
-        "Created visually appealing responsive user interfaces by translating design and wireframes into high quality code.",
-        "Ensured accurate and secure data input through form handling and validation."
-      ],
-    },
+    //     "Worked closely with product managers, designers, and other engineers to tackle challenging problems and deliver innovative solution design, prioritizing user experience and utilizing efficient application deployment and scalability techniques.",
+    //     "Implemented microservices based Node.js back-end architecture to develop new REST APIs, resulting in improved functionality and seamless integration with databases.",
+    //     "Created visually appealing responsive user interfaces by translating design and wireframes into high quality code.",
+    //     "Ensured accurate and secure data input through form handling and validation."
+    //   ],
+    // },
     {
       title: "Software Engineer",
       company_name: "Infogain India Pvt Ltd",
@@ -150,9 +155,17 @@ import {
       iconBg: "#383E56",
       date: "Oct 2018 - Aug 2020",
       points: [
-        "Collaborated with cross-functional teams to design, develop and manage software architecture across front-end and back-end of web applications using React, Redux, JavaScript, Node.js, Express ensuring efficient and scalable solutions.",
+        "Successfully migrated a monolithic application to a microservices architecture, resolving performance bottlenecks and reducing development time by 20%.",
+        "Developed a CRM system with user-facing pipelines enabling custom features, leading to a 20% increase in user retention.",
+        "Developed RESTful API endpoints using Springboot to facilitate data transfer between server and client.", 
+        "Created robust and interactive user interfaces using React, Redux, Bootstrap, and Material-UI.", 
         "Increased 24% faster loading time by implementing code optimization, image and resource caching, and server-side rendering.",
-        "Build and test applications using agile methodologies, helping other engineers via mentorship, engaged in scrum ceremonies, code reviews, and implemented automated and manual testing frameworks to ensure quality and performance."
+        "Utilized SQL (relational), ORM, and NoSQL (non-relational) databases to store and manage application data efficiently.",
+        "Collaborated with cross functional teams to develop and design responsive and interactive web applications.",
+        "Engaged in Scrum ceremonies, quality assurance testing, risk assessment, code reviews, and conducted unit tests to ensure quality and reliability of software products.", 
+        "Built cross-browser compatible and accessibility-compliant websites, resulting in 30% faster load time.", 
+        "Built reusable components to be used across multiple applications and contributed to the team's overall development.",
+
       ],
     },
     {
