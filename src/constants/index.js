@@ -123,7 +123,7 @@ import {
       company_name: "Lakehead University",
       icon: lakehead,
       iconBg: "#383E56",
-      date: "Oct 2022 - Present",
+      date: "Sept 2023 - Present",
       points: [
         "Migrated a legacy multi-page app to a React-Redux SPA, reducing page load times by 40% and boosting user experience by 25%.",
         "Reduced page load times by 60% and optimized database queries to handle a 3x increase in traffic during peak usage.",
