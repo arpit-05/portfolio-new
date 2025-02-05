@@ -125,13 +125,20 @@ import {
       iconBg: "#383E56",
       date: "Oct 2022 - Present",
       points: [
-        "Involved in all phases of front-end functionalities such as requirement analysis, visual and functional specifications, and overall design and development.",
-        "Built reusable components to be used across multiple applications and contributed to the team's overall development.",
-        "Designed and developed fund management using Java, Spring Boot, Hibernate, and MySQL for scholarship applications to provide transparency and effective bookkeeping.",
-        "Collaborated with other team members to develop a large-scale application for managing professors’ promotions and tenure.", 
-
-          
-          
+        "Migrated a legacy multi-page app to a React-Redux SPA, reducing page load times by 40% and boosting user experience by 25%.",
+        "Reduced page load times by 60% and optimized database queries to handle a 3x increase in traffic during peak usage.",
+        "Implemented CI/CD pipelines and integrated testing tools like Jest and Enzyme, reducing bugs in production by 20%.",
+         ],
+    },
+    {
+      title: "Library Operations Supervisor",
+      company_name: "Lakehead University",
+      icon: lakehead,
+      iconBg: "#383E56",
+      date: "Oct 2022 - April 2023",
+      points: [
+        "Supervised a team of 13 student library assistants and oversaw daily library operations, while maintaining a budget of $300,000.",
+        "Led the operational transformation of library services, implementing new workflows and digital tools that improved staff efficiency by 20% and reduced operational costs by 15%.",           
       ],
     },
     // {
@@ -153,7 +160,7 @@ import {
       company_name: "Infogain India Pvt Ltd",
       icon: infogain,
       iconBg: "#383E56",
-      date: "Oct 2018 - Aug 2020",
+      date: "Oct 2018 - Jul 2021",
       points: [
         "Successfully migrated a monolithic application to a microservices architecture, resolving performance bottlenecks and reducing development time by 20%.",
         "Developed a CRM system with user-facing pipelines enabling custom features, leading to a 20% increase in user retention.",
